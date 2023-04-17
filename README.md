@@ -15,6 +15,6 @@ The moderator will first introduce the mobile app and the usability test process
 
 ## Survey & Video Recordings
 
-The link for the (survey)[https://forms.gle/zT8sdndQXEKRkAtG6]
-The link for the (phone screen recording)[https://drive.google.com/file/d/1lrEcRa0DZH_qDHyAwS4vQJDcBjX7iGL1/view?usp=sharing] and the (pilot test video)[https://drive.google.com/file/d/1mRz4wQXs12E0ECgmyaeSQUfcEgvqHyi-/view?usp=sharing]
+Here is the link for the [survey](https://forms.gle/zT8sdndQXEKRkAtG6).
+Here is the link for the [phone screen recording](https://drive.google.com/file/d/1lrEcRa0DZH_qDHyAwS4vQJDcBjX7iGL1/view?usp=sharing) and the [pilot test video](https://drive.google.com/file/d/1mRz4wQXs12E0ECgmyaeSQUfcEgvqHyi-/view?usp=sharing).
 
